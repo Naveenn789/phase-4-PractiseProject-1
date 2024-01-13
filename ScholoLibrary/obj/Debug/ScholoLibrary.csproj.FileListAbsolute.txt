@@ -1,0 +1,9 @@
+C:\Mphasis\Phase-4\practise-projects\Practise-project 1\ScholoLibrary\ScholoLibrary\bin\Debug\ScholoLibrary.dll
+C:\Mphasis\Phase-4\practise-projects\Practise-project 1\ScholoLibrary\ScholoLibrary\bin\Debug\ScholoLibrary.pdb
+C:\Mphasis\Phase-4\practise-projects\Practise-project 1\ScholoLibrary\ScholoLibrary\obj\Debug\ScholoLibrary.csproj.AssemblyReference.cache
+C:\Mphasis\Phase-4\practise-projects\Practise-project 1\ScholoLibrary\ScholoLibrary\obj\Debug\ScholoLibrary.csproj.CoreCompileInputs.cache
+C:\Mphasis\Phase-4\practise-projects\Practise-project 1\ScholoLibrary\ScholoLibrary\obj\Debug\ScholoLibrary.dll
+C:\Mphasis\Phase-4\practise-projects\Practise-project 1\ScholoLibrary\ScholoLibrary\obj\Debug\ScholoLibrary.pdb
+C:\Mphasis\Phase-4\practise-projects\Practise-project 1\ScholoLibrary\ScholoLibrary\bin\Debug\nunit.framework.dll
+C:\Mphasis\Phase-4\practise-projects\Practise-project 1\ScholoLibrary\ScholoLibrary\bin\Debug\nunit.framework.xml
+C:\Mphasis\Phase-4\practise-projects\Practise-project 1\ScholoLibrary\ScholoLibrary\obj\Debug\ScholoLibrary.csproj.CopyComplete
