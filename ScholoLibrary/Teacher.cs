@@ -15,8 +15,8 @@ namespace ScholoLibrary
         {
             List<Teacher> Teachers = new List<Teacher>();
 
-            Teachers.Add(new Teacher { Name = "Rakesh", Subject = "Hindi" });
-            Teachers.Add(new Teacher { Name = "Padma", Subject = "Telugu" });
+            Teachers.Add(new Teacher { Name = "Balveer", Subject = "Hindi" });
+            Teachers.Add(new Teacher { Name = "Ranvijay", Subject = "Telugu" });
             Teachers.Add(new Teacher { Name = "Sreekanth", Subject = "Maths" });
             Teachers.Add(new Teacher { Name = "Mani", Subject = "Biology" });
 

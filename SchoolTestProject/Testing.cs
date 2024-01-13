@@ -2,10 +2,6 @@
 using NUnit.Framework;
 using ScholoLibrary;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SchoolTestProject
 {
@@ -15,10 +11,10 @@ namespace SchoolTestProject
         Student s = new Student();
 
 
-        [TestCase("Suresh", ExpectedResult = true)]
-        [TestCase("Vamsi", ExpectedResult = true)]
-        [TestCase("Ramya", ExpectedResult = false)]
-        [TestCase("Nani", ExpectedResult = false)]
+        [TestCase("Arar", ExpectedResult = true)]
+        [TestCase("Aziz", ExpectedResult = true)]
+        [TestCase("Akbar", ExpectedResult = false)]
+        [TestCase("Aslam", ExpectedResult = false)]
         public bool IsName(string search)
         {
             return s.Search(search);
@@ -26,7 +22,7 @@ namespace SchoolTestProject
 
         Subject sub = new Subject();
 
-        [TestCase("Chemistry", ExpectedResult = true)]
+        [TestCase("Hindi", ExpectedResult = true)]
         [TestCase("Maths", ExpectedResult = true)]
         [TestCase("Telugu", ExpectedResult = true)]
         [TestCase("Science", ExpectedResult = false)]
@@ -37,9 +33,9 @@ namespace SchoolTestProject
 
         Teacher ts = new Teacher();
 
-        [TestCase("Rakesh", ExpectedResult = true)]
-        [TestCase("Padma", ExpectedResult = true)]
-        [TestCase("Sushanth", ExpectedResult = false)]
+        [TestCase("Balveer", ExpectedResult = true)]
+        [TestCase("Ranvijay", ExpectedResult = true)]
+        [TestCase("Geethanjali", ExpectedResult = false)]
         public bool IsTeacher(string t)
         {
 

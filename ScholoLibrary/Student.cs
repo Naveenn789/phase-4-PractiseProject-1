@@ -16,9 +16,9 @@ namespace ScholoLibrary
         {
             List<Student> Allstudents = new List<Student>();
 
-            Allstudents.Add(new Student { Name = "Suresh", Class = 8, Section = 'A' });
+            Allstudents.Add(new Student { Name = "Arar", Class = 8, Section = 'A' });
             Allstudents.Add(new Student { Name = "Kumarsai", Class = 10, Section = 'C' });
-            Allstudents.Add(new Student { Name = "Vamsi", Class = 9, Section = 'B' });
+            Allstudents.Add(new Student { Name = "Aziz", Class = 9, Section = 'B' });
             Allstudents.Add(new Student { Name = "Sushanth", Class = 7, Section = 'A' });
 
             var isfound = Allstudents.Find(d => d.Name == s);

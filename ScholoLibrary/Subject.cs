@@ -16,10 +16,10 @@ namespace ScholoLibrary
         {
             List<Subject> Allsubjects = new List<Subject>();
 
-            Allsubjects.Add(new Subject { SubjectId = 1001, Name = "Chemistry" });
+            Allsubjects.Add(new Subject { SubjectId = 1001, Name = "Hindi" });
             Allsubjects.Add(new Subject { SubjectId = 1002, Name = "Maths" });
             Allsubjects.Add(new Subject { SubjectId = 1003, Name = "Telugu" });
-            Allsubjects.Add(new Subject { SubjectId = 1005, Name = "Biology" });
+            Allsubjects.Add(new Subject { SubjectId = 1005, Name = "Social" });
 
 
 
